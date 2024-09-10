@@ -1,7 +1,7 @@
 # Welcome to Bio-Raum 
 
 Bio-Raum (Bioinformatische Ressourcen für amtliche Untersuchungsmethoden) aims to be a collection
-of bioinformatic ressources and tools for the fields of food and feed products, veterinary medicine,
+of bioinformatic ressources and tools for the fields of food and feed products analysis, veterinary medicine,
 and consummer protection.
 
 It is open to all contributions related to these fields, onexisting or new tools.
